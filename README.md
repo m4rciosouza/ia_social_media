@@ -8,7 +8,7 @@ Atualmente o projeto contém código para geração de imagens utilizadas pelas 
 Para executar o código, será necessário antes instalar algumas dependências, conforma a lista a seguir:
 - [Python3](https://www.python.org/downloads)
 - [Ollama](https://ollama.com/download)
-- [Llhama3](https://ollama.com/library/llama3)
+- [Llama3](https://ollama.com/library/llama3)
 
 ## Instalação
 Depois de ter todos os pré-requisitos instalados, será necessário executar os comandos abaixo para instalar algumas dependências do Python no projeto, portanto execute os comandos no terminal:
